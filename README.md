@@ -2,7 +2,7 @@
 
 ## Description
 
-A program to read and read CSV file.
+A program to read and write CSV file.
 
 ## Requirements
 
